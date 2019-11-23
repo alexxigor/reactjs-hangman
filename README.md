@@ -1,4 +1,5 @@
  Trabalho editado por Alex Igor e Igor Rodrigues
+ As palavras da forca foram alteradas
  
  # ReactJS Hangman Game 
  
