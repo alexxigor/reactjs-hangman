@@ -1,4 +1,4 @@
- Trabalho editado por Alex Igor e Igor Rodrigues
+ Trabalho editado por Alex Igor e Igor Rodrigo
  
  As palavras da forca foram alteradas
  
