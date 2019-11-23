@@ -98,7 +98,7 @@ class Hangman extends Component {
 				<p className='text-center'>
 					<img src={this.props.images[this.state.mistake]} alt={altText} />
 				</p>
-				<p className='text-center text-light'>Guess the Programming Language ?</p>
+				<p className='text-center text-light'>Qual a receita que usa batata como ingrediente principal ?</p>
 				<p className='Hangman-word text-center'>
 					{!gameOver ? this.guessedWord() : this.state.answer}{" "}
 				</p>
