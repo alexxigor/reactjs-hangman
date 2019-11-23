@@ -1,3 +1,5 @@
+ Trabalho editado por Alex Igor e Igor Rodrigues
+ 
  # ReactJS Hangman Game 
  
  If you'd like to contribute, help me close issues.
